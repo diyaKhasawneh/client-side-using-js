@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background: red;
+    background: #00D1D1;
     display: flex;
     align-items: center;
     justify-content: center;
