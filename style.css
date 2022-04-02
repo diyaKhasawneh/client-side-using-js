@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: linear-gradient(to top, #07f7e3 0%, #0fa0c4d0 100%);
+    background-image: red;
     display: flex;
     align-items: center;
     justify-content: center;
